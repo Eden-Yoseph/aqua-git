@@ -1,0 +1,4 @@
+config.h
+*.log
+.DS_Store
+.vscode/
